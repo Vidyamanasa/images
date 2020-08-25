@@ -1,2 +1,9 @@
+<html>
 <h1> smart hub </h1>
 <h2> computer science</h2>
+<body>
+  cse smarthub provide all sort of ways for students to engage with current trends.
+<li>workshops</li>
+<li>webinars</li>
+</body>
+</html>
